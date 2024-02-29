@@ -11,7 +11,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="100" alt="html5 logo"  />
-  <img width="50" />
+  <img width="20" />
   </div>
 
 
