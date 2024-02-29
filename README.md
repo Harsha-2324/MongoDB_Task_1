@@ -10,8 +10,8 @@
 ## <h2 align="left">Programming Language Used :</h2>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="20" alt="html5 logo"  />
-  <img width="20" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="40" alt="mongod logo"  />
+  <img width="40" />
   </div>
 
 
